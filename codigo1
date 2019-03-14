@@ -1,1 +1,3 @@
 if imput_action_presed(up_left)
+melocidad+= vector2
+pocision+_movimient*delta
